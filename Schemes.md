@@ -1,7 +1,7 @@
 # Проектирование системы
 ## Верхний уровень
 
-### Mental Map
+### Mental Map (Кликните на иконку)
 [![Mental map](./documentation/Attachments/mental_map.png)](https://ioctopus.online/sh-35787f13deb7d0b3)
 ### IDEF0
 ![IDEF](./documentation/Attachments/IDEF.svg)
